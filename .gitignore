@@ -1,0 +1,7 @@
+# Ignore the build and lob dirs 
+build 
+lib/*
+
+# Ignore any execuatbles 
+bin/*
+
